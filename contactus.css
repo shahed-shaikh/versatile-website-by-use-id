@@ -1,0 +1,241 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.bigdiv{
+	height:1000px;
+	width:100%;
+	background-color:white ;
+}
+.topdiv{
+	height:95px;
+	width:100%;
+	background-color:white;
+	color:black;
+}
+.logos{
+	height:67px;
+	width:4.5%;
+	margin:1.2% 0% 0% 15%;	
+	float:left;
+}
+.home{
+	height:30px;
+	width:4%;
+	float:left;
+	background-color:white;
+	font-size:19px;
+	margin:3% 0% 0% 3%;
+	
+}
+.course{
+	height:30px;
+	width:4.5%;
+	float:left;
+	background-color:white;
+	font-size:19px;
+	margin:3% 0% 0% 3%;
+}
+.survice{
+	height:30px;
+	width:4.7%;
+	float:left;
+	background-color:white;
+	font-size:19px;
+	margin:3% 0% 0% 3%;
+}
+.contact{
+	height:30px;
+	width:6%;
+	float:left;
+	background-color:white;
+	font-size:19px;
+	margin:3% 0% 0% 3.5%;
+}
+.event{
+	height:30px;
+	width:9.8%;
+	float:left;
+	background-color:white;
+	font-size:19px;
+	margin:3% 0% 0% 3.5%;
+}
+.image{
+	height:40px;
+	width:4.3%;
+	margin:2.7% 0% 0% 3.5%;
+	float:left;
+}
+.data{
+	color:red;
+	margin:3.3% 0% 0% 0%;
+	float:left;
+	background-color:white;
+	color:red;
+	font-size:18px;
+}
+.Contacttext{
+	font-size:55px;
+	margin:7% 0% 0% 18%;
+	color:#1A2B6D;
+}
+.welcome{
+	font-size:20px;
+	margin:2.7% 0% 0% 18%;
+}
+.versatile{
+	margin:1.6% 0% 0% 18%;
+}
+.education{
+	margin:0.2% 0% 0% 19.5%;
+}
+.black{
+	font-size:20px;
+}
+.linechange{
+	margin:0.3% 0% 0% 20.4%;
+}
+.journy{
+	margin:1.5% 0%  0% 18%;
+}
+.information{
+	margin:0.3% 0% 0% 18%;
+}
+.biggreendiv{
+	height:1000px;
+	width:100%;
+	background-color:#1A2B6D;
+	margin:3.7% 0% 0% 0%;
+}
+.greendivtext{
+	color:white;
+	padding:4.5% 0% 0% 5%;
+	text-align:center;
+}
+.firstnametext{
+ color:white;
+ padding:3% 0% 0% 21%;
+ font-size:17px;
+ float:left;
+ 
+ 
+}
+
+
+.lastnametext{
+ color:white;
+ padding:3% 0% 0% 25.5%;
+ font-size:17px;
+ float:left;
+ 
+}
+.namelinediv{
+	height:1.1px;
+	width:29.5%;
+	background-color:white;
+	margin:3.5% 0% 0% 21%;
+	float:left;
+	color:white;
+	font-size:18px;
+	
+}
+.secondnamelinediv{
+	height:1.1px;
+	width:28%;
+	background-color:white;
+	margin:3.5% 0% 0% 1.9%;
+	float:left;
+}
+.thirdnamelinediv{
+	height:1.1px;
+	width:59.4%;
+	background-color:white;
+	margin:5.3% 0% 0% 21%;
+	float:left;
+	color:white;
+}
+.fourlinediv{
+	height:1.1;
+	width:59.4%;
+	background-color:white;
+	margin:19.4% 0% 0% 21%;
+	color:white;
+}
+.fivelinediv{
+	height:1.1;
+	width:59.4%;
+	background-color:white;
+	margin:8% 0% 0% 21%;
+}
+.email{
+	font-size:18px;
+	margin:2.3% 0% 0% 0%;
+}
+.phone{
+	margin:2.3% 0% 0% 1.5%;
+	font-size:14px;
+	color:#FFFFF6;
+}
+.message{
+	font-size:18px;
+	padding:2.3% 0% 0% 0%;
+}
+.submit{
+	font-size:26px;
+	color:#F8FFFF;
+	padding:2.5% 0% 0% 88%;
+}
+.address{
+	color:white;
+	padding:7% 0% 0% 20%;
+	font-size:18px;
+}
+.pin{
+	color:white;
+	padding:0% 0% 0% 20%;
+	font-size:18px;
+}
+.mh{
+	color:white;
+	padding:1.7% 0% 0% 20%;
+	font-size:18px;
+}
+.secondpincode{
+	color:white;
+	padding:0% 0% 0% 20%;
+	font-size:18px;
+}
+.cell{
+	color:white;
+	padding:0.7% 0% 0% 20%;
+	font-size:18px;
+}
+.com{
+	color:white;
+}
+.terms{
+	color:white;
+	padding:1% 0% 0% 20%;
+	font-size:13px;
+	float:left;
+}
+.policy{
+	color:white;
+	padding:1% 0% 0% 2%;
+	font-size:13px;
+	float:left;
+
+
+}
+.Refund{
+	color:white;
+	padding:1% 0% 0% 2%;
+	float:left;
+
+
+}
+	
+
+
+
+

@@ -1,0 +1,666 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.powerfull{
+	width:100%;
+	background-color:white;
+}
+.power{
+	height:90px;
+	width:100%;
+	background-color:white;
+	color:black;
+	position:fixed;
+}
+.logos{
+	height:65px;
+	width:4.5%;
+	float:left;
+	margin:1.3% 0% 0% 16%;	
+}
+.project{
+	height:63px;
+	width:60px;
+	float:left;
+	margin:1.3% 0% 0% 15%; 
+	float:left;
+}
+.strong{
+	height:25px;
+	width:4%;
+	background-color:white;
+	color:red;
+	float:left;
+	margin:3.2% 0% 0% 2.8%;
+	font-size:18px;
+}
+.second{
+	height:25px;
+	width:4.5%;
+	background-color:white;
+	color:#1A2A6C;
+	float:left;
+	margin:3.2% 0% 0% 2.8%;
+	font-size:18px;
+}
+.third{
+	height:25px;
+	width:6%;
+	background-color:white;
+	color:#1A2A6C;
+	float:left;
+	margin:3.2% 0% 0% 2.8%;
+	font-size:18px;
+	text-decoration:none;
+}
+.four{
+	height:25px;
+	width:9%;
+	background-color:white;
+	color:#1A2A6C;
+	float:left;
+	margin:3.2% 0% 0% 2.8%;
+	font-size:18px;
+}
+.officiall{
+	margin:2.5% 0% 0% 5%;
+	height:50px;
+	width:200px;
+	background-color:white;
+	float:left;
+	
+}
+.image{
+	height:35px;
+	width:53%;
+	margin:5% 0% 0% 0%;
+	float:left;
+}
+.data{
+	color:red;
+	margin:10% 0% 0% 0%;
+	float:left;
+	background-color:white;
+	color:red;
+	font-size:18px;
+}
+.draw{
+	height:530px;
+	width:100%;
+}
+.notpad{
+	height:15px;
+	width:86%;
+	background-color:#1A2B6D;
+	margin-top:4%;
+}	
+.devlopment{
+	height:450px;
+	width:100%;
+	background-color:#FFFFFF;
+	color:red;
+}
+.small{
+	height:700px;
+	width:42%;
+	background-color:#FFFFFF;
+	color:black;
+	margin:-34.5% 0% 0% 38%;
+}
+.static{
+	height:110px;
+	width:75%;
+	margin:-0.5% 0% 5% 20.5%;
+	float:left;
+}
+.between{
+	height:90px;
+	width:65%;
+	margin:-15% 0% 0% 2%;
+}
+.media{
+	height:90px;
+	width:14.5%;
+	float:left;
+	margin:2% 0% 0% 83%;
+}
+.float{
+	height:2.5px;
+	width:20%;
+	background-color:black;
+	margin:23% 0% 0% 0%;	
+}
+.laptop{
+	height:350px;
+	width:65%;
+	background-color:white;
+	color:black;
+	margin:5% 0% 0% 36%;
+	font-size:19px;
+	padding:0% 0% 0% 0% 
+}
+.font{
+	font-size:16px;
+	margin:0% 0% 0% 1%;
+}
+.fonder{
+	margin:1.5% 0% 0% 1%;
+}
+.prozon{
+	margin:1.5% 2% 0% 12%;
+}
+.dimart{
+	margin:1.5% 0% 0% 4%;
+}
+.computer{
+	margin:1.5% 1% 0% 0%
+}
+.dimart1{
+	margin:1.5% 0% 0% 4%;
+}
+.class{
+	height:50px;
+	width:12.7%;
+	background-color:#1A2B6D;
+	margin:14% 0% 0% 40%;
+	float:left;
+}
+.model{
+	height:37.3px;
+	width:44%;
+	background-color:#D41317;
+	color:white;
+	margin:14% 0% 1% 52%;
+	padding:3% 0% 0% 1.5%;
+	font-size:18.5px;
+}
+.black{
+	height:15px;
+	width:30%;
+	margin:30% 0% 0% 36%
+}
+.gym{
+	height:385px;
+	width:100%;
+	background-color:#1A2B6D;
+	color:white;
+	margin-top:-3%;
+}
+.color{
+	height:80px;
+	width:25%;
+	background-color:#1A2B6D;
+	color:white;
+	font-size:60px;
+	float:left;
+	margin:3.3% 0% 0% 18%;
+}
+.challenge{
+	width:100%;
+	height:1350px;
+	margin-top:-9%;
+}
+.biker{
+	height:1200px;
+	width:17.8%;
+	background-color:#F2F2F2;
+	color:black;
+	margin-left:18%;
+	float:left;		
+}
+.hard{	
+	padding-top:12%;
+	margin-left:12%;
+	font-size:30px;
+}
+.local{
+	height:105px;
+	width:88%;
+	background-color:#F2F2F2;
+	margin:15% 0% 0% 3%;
+	font-size:17.9px;
+}
+.chair{
+	margin-top:2.5%;
+	 
+}
+.city{
+	height:210px;
+	width:88%;
+	background-color:#F2F2F2;
+	font-size:17.9px;
+	margin:0% 0% 1% 3%;
+}
+.typing{
+	margin:0% 0% 0% 6%;
+	padding-top:2.5%;
+}
+.hp{
+	height:60px;
+	width:97%;
+	background-color:#F2F2F2;
+	padding-left:3%;
+	margin:0% 0% 0% 0%;
+	font-size:17.9px;
+}
+.phon{
+	padding-top:2.5%;
+}
+.more{
+	padding:3% 0% 2% 10%;
+	color:red;
+}
+.wacth{
+	height:60px;
+	width:85%;
+	background-color:#F2F2F2;
+	margin:0% 0% 0% 3%;
+	font-size:17.9px;
+}
+.line{
+	height:1320px;
+	width:18%;
+	background-color:#F2F2F2;
+	margin-left:3.5%;
+	float:left;
+}
+.movie{
+	margin:15% 0% 0% 13%; font-size:18px;
+}
+.order{
+	margin-left:7%;
+}
+.brother{
+	margin:2.5% 0% 2.5% 17.5%;
+}
+.minars{
+	margin:0% 0% 0% 13%; font-size:18px;
+}
+.bro{
+	margin:0% 0% 0% 17.5%;
+	padding-bottom:0%;
+}
+.models{
+	margin:3% 0% 0% 17.5%;
+}
+.half{
+	margin:10% 0% 0% 10%;
+	color:red;
+}
+.fly{
+	height:1050px;
+	width:18%;
+	background-color:#F2F2F2;
+	margin-left:3.5%;
+	float:left;
+}
+.understand{
+	margin:15% 0% 0% 14%;
+}
+.ghamand{
+	margin:3% 0% 0% 14%;
+}
+.moral{
+	margin:14% 0% 0% 11%;
+	color:red;
+}
+.fassion{
+	height:45px;
+	width:100%;
+	background-color:white;
+	margin-top:4%;
+}
+.compalsary{
+	font-size:17px;
+	margin:8% 0% 0% 5%;
+}
+.buds{
+		margin:25% 0% 0% 12%;
+		color:red;
+}
+.camera{
+	margin:9% 0% 0% 12%;
+}
+.books{
+	margin:3% 0% 0% 12%;
+}
+.slap{
+	margin:30% 0% 0% 7%;
+		color:red;
+}
+.tools{
+	height:45px;
+	width:100%;
+	background-color:white;
+	margin:2% 0% 0% 0%;
+}
+.home{
+	color:black;
+}
+.tablet{
+	height:2085px;
+	width:100%;
+	color:black;
+	margin-top:4%;
+}
+.mumbai{
+	height:80px;
+	width:54%;
+	color:#1A2B6D;
+	margin:0% 0% 0% 22%;
+	font-size:33px;
+}
+.codes{
+	height:500px;
+	width:25%;
+	margin:1.5% 0% 0% 20%;
+	float:left;	
+}
+.crater{
+	height:500px;
+	width:25%;
+	margin:1.5% 0% 0% 6%;		
+}
+.brits{
+	height:500px;
+	width:25%;
+	margin:4.8% 0% 0% 20%;
+	float:left;		
+}
+.vlaue{
+	height:500px;
+	width:25%;
+	margin:4.8% 0% 0% 6%;		
+}
+.talented{
+	margin:1.7% 0% 0% 20%;
+	font-size:18px;
+}
+.various{
+	margin:0.3% 0% 0% 20%;
+	font-size:17.5px;
+}
+.focuses{
+	height:14px;
+	width:100%;
+	background-color:#1A2B6D;
+	margin-top:2%;
+}
+.project{
+	height:435px;
+	width:62%;
+	background-color:#F2F2F2;
+	margin:8% 0% 0% 19%;
+}
+.further{
+	margin:5.5% 0% 0% 15%;
+	font-size:60px;
+	color:#1A2B6D;
+}
+.mirar{
+	height:2.4px;
+	width:12.7%;
+	background-color:#1A2B6D;
+	margin:6.4% 0% 0% 16%;
+}
+.topics{
+	margin:-1.4% 0% 0% 32%;
+	font-size:17px;
+}
+.topical{
+	margin:1% 0% 0% 32%;
+	font-size:17px;
+}
+.bigdiv{
+	height:51px;
+	width:15.3%;
+	background-color:#D41317;
+	color:white;
+	margin:0% 0% 0% 65.5%;
+	font-size:18px;
+	padding:0% 0% 0% 0%;
+	float:left;
+}
+.smalldiv{
+	height:38px;
+	width:22%;
+	background-color:#1A2B6D;
+	color:#FFEED9;
+	padding:5.4% 0% 0% 0%;
+	text-align:center;
+	font-size:25px;
+	float:left;
+	
+}
+.light{
+	height:35.5px;
+	width:75.5%;
+	background-color:#D41317;
+	color:#FFEED9;
+	margin:0% 0% 0% 20%;
+	font-size:18px;
+	padding:6.5% 0% 0% 6%;
+}
+.biggreendiv{
+	height:1000px;
+	width:100%;
+	background-color:#1A2B6D;
+}
+.greendivtext{
+	color:white;
+	padding:4.5% 0% 0% 5%;
+	font-size:40px;
+	text-align:center;
+}
+.firstnametext{
+ color:white;
+ padding:3% 0% 0% 21%;
+ font-size:17px;
+ float:left;
+  
+}
+
+.lastnametext{
+ color:white;
+ padding:3% 0% 0% 25.5%;
+ font-size:17px;
+ float:left;
+ 
+}
+.namelinediv{
+	height:1.1px;
+	width:29.5%;
+	background-color:white;
+	margin:3.5% 0% 0% 21%;
+	float:left;
+	color:white;
+	font-size:18px;
+	
+}
+.secondnamelinediv{
+	height:1.1px;
+	width:28%;
+	background-color:white;
+	margin:3.5% 0% 0% 1.9%;
+	float:left;
+}
+.thirdnamelinediv{
+	height:1.1px;
+	width:59.4%;
+	background-color:white;
+	margin:5.3% 0% 0% 21%;
+	float:left;
+	color:white;
+}
+.fourlinediv{
+	height:1.1;
+	width:59.4%;
+	background-color:white;
+	margin:19.4% 0% 0% 21%;
+	color:white;
+}
+.fivelinediv{
+	height:1.1;
+	width:59.4%;
+	background-color:white;
+	margin:8% 0% 0% 21%;
+}
+.email{
+	font-size:18px;
+	margin:2.3% 0% 0% 0%;
+}
+.phone{
+	margin:2.3% 0% 0% 1.5%;
+	font-size:14px;
+	color:#FFFFF6;
+}
+.message{
+	font-size:18px;
+	padding:2.3% 0% 0% 0%;
+}
+.submit{
+	font-size:26px;
+	color:#F8FFFF;
+	padding:2.5% 0% 0% 88%;
+}
+.address{
+	color:white;
+	padding:7% 0% 0% 20%;
+	font-size:18px;
+}
+.pin{
+	color:white;
+	padding:0% 0% 0% 20%;
+	font-size:18px;
+}
+.mh{
+	color:white;
+	padding:1.7% 0% 0% 20%;
+	font-size:18px;
+}
+.secondpincode{
+	color:white;
+	padding:0% 0% 0% 20%;
+	font-size:18px;
+}
+.cell{
+	color:white;
+	padding:0.7% 0% 0% 20%;
+	font-size:18px;
+}
+.com{
+	color:white;
+}
+.terms{
+	color:white;
+	padding:1% 0% 0% 20%;
+	font-size:13px;
+	float:left;
+}
+.policy{
+	color:white;
+	padding:1% 0% 0% 2%;
+	font-size:13px;
+	float:left;
+
+}
+.Refund{
+	color:white;
+	padding:1% 0% 0% 2%;
+	float:left;
+}
+.mobile{
+	background-color:white;
+	text-decoration:none;
+	cursor:pointer;
+}
+.id{
+	height:400px;
+	width:300px;
+	background-color:white;
+	margin:9% 0% 0% 0%;
+	float:left;
+}
+.up{
+	margin:8% 0% 0% 0%;
+	font-size:55px;
+	text-align:center;
+}
+.already{
+	margin:4.8% 0% 0% 0%;
+	font-size:20px;
+	text-align:center;
+	color:#102842;
+}
+.in{
+	color:#E03C17;
+}
+.google{
+	height:46px;
+	width:100%;
+	background-color:white;
+	margin-top:12%;
+}
+.img{
+ height:36px;
+width:11%; 
+margin:1.7% 0% 0% 2.6%;
+float:left;
+}
+.sign{
+	margin:4% 0% 0% 14.5%;
+	font-size:17.5px;
+	float:left;
+}
+.facebook{
+	height:46px;
+	width:100%;
+	background-color:#1878F2;
+	margin-top:5%;
+	color:white;
+}
+.imgg{
+	 height:25px;
+	width:7.6%; 
+	margin:3.1% 0% 0% 4%;
+	float:left;
+	border-radius:14px;
+}
+.signn{
+	margin:4% 0% 0% 15%;
+	font-size:17.5px;
+	float:left;
+}
+.or{
+	height:1.6px;width:45%;
+	background-color:#DADCE0;
+	margin-top:7%;
+	float:left;
+}
+.orr{
+	font-size:18px;
+	margin:4.1% 0% 0% 2.5%;
+	float:left;
+}
+.ordiv{
+	height:1.6px;width:45%;
+	background-color:#DADCE0;
+	margin:7% 0% 0% 2.2%;	
+	float:left;
+}
+.with{
+	height:46px;
+	width:100%;
+	margin-top:15%;
+	color:black;
+	text-align:center;
+}
+.imggg{
+	 height:25px;
+	width:100%; 
+	margin-top:3%;
+	float:left;
+	font-size:17.5px;
+}
+
